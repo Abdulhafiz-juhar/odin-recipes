@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+li, ul {
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 200%;
+}
+
