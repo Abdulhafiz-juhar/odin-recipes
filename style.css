@@ -9,6 +9,18 @@ li, ul {
     
 }
 
+ul {
+    display: flex;
+}
+
+li {
+    border: solid 1px;
+    background-color: bisque;
+    margin: 2px;
+    border-radius: 5%;
+    flex: auto;
+}
+
 a {
     text-decoration: none;
     color: blueviolet;
